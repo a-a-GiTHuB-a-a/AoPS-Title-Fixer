@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name        AoPS Title Fixer
 // @namespace   https://rahulchoubey1.repl.co/scripts#aops-title-fixer
-// @version     2023.08.10
-// @description	This script fixes the title problem in the AoPSWiki, so now you can actually tell the difference between your million different tabs!
+// @version     2023.08.10.3
+// @description This script fixes the title problem in the AoPSWiki, so now you can actually tell the difference between your million different tabs!
 // @author      da BOXEN
 // @match       https://artofproblemsolving.com/wiki/
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=artofproblemsolving.com
 // @grant       none
 // @sandbox     DOM
 // @run-at      document-end
-// @license     CC BY-NC-SA
+// @license     GNU General Public License
 // ==/UserScript==
  
 (function fixtitle() {
