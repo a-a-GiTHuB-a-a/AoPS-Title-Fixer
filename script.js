@@ -12,7 +12,7 @@
 // @license     GNU General Public License
 // ==/UserScript==
 
-(function fixtitle() {
+(function() {
 	"use strict";
 
 	const titles = Array.from(document.getElementsByTagName("title"));
